@@ -1,0 +1,1 @@
+* * * * * root (/bin/date && /home/autosync_script.sh) >> /tmp/autosync_date.log 2>&1
